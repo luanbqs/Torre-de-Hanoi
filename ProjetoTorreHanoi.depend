@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554154179 source:/Users/luanborges/Documents/ProjetoTorreHanoi/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1554154368 source:/Users/luanborges/Documents/ProjetoTorreHanoi/pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1554097076 /Users/luanborges/Documents/ProjetoTorreHanoi/Pilha.h
+
